@@ -12,7 +12,7 @@ This template is a mobile responsive login and register form.
 npm run dev
 ```
 
-- for sass watch
+- for sass --watch
 
 ```
 npm run start
