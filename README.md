@@ -1,6 +1,6 @@
-# Login and Register Form (Mobile Responsive)
+# Login and Register Form
 
-This template is a mobile responsive login and register form.
+This template is a responsive login and register form.
 
 ---
 
